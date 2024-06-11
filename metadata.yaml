@@ -1,0 +1,25 @@
+_repo: Barocke-Kirchen-und-Kloster-Unterfrankens_73719
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ritz, Josef Maria
+    gutenberg_agent_id: '57197'
+    url: http://www.gutenberg.org/2009/agents/57197
+description: ''
+gutenberg_issued: '2024-05-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73719'
+language: de
+pgterms:marc905: 20221116071133ritz
+pgterms:marc906: '1927'
+pgterms:marc907: de
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: '  $aAugsburg :$bDr. Benno Filser Verlag G. m. b. H., $c1927.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Barocke Kirchen und Klöster Unterfrankens
+url: http://www.gutenberg.org/ebooks/73719
