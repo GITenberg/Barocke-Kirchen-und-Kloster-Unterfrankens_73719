@@ -1,11 +1,16 @@
 _repo: Barocke-Kirchen-und-Kloster-Unterfrankens_73719
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73719-h/images/cover.jpg
 creator:
   author:
     agent_name: Ritz, Josef Maria
     gutenberg_agent_id: '57197'
     url: http://www.gutenberg.org/2009/agents/57197
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73719#Barocke-Kirchen-und-Kloster-Unterfrankens
 gutenberg_issued: '2024-05-28'
 gutenberg_type: Text
 identifiers:
